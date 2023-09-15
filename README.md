@@ -3,7 +3,7 @@
 <!--
 **Mahmoud-Shetawy/Mahmoud-Shetawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-## Hi, I'm Mahmoud Shetawy 👋🏼👨🏻‍💻
+## Hi, I'm Mahmoud Khider 👋🏼👨🏻‍💻
 
 - 🎓I’m currently a computer and information student(Menofia university) at my 4th year; 
 - 🤔 My interests are with Full Stack(Node js + Angular) ;
@@ -43,8 +43,8 @@
 [![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)](https://github.com/MahmoudAliKhider)
 
 ## My GitHub Stats
-[![Mahmoud-Shetawy's github stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Shetawy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mahmoud-Shetawy)
+[![MahmoudAliKhider's github stats](https://github-readme-stats.vercel.app/api?username=MahmoudAliKhider&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/MahmoudAliKhider)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mahmoud-Shetawy&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=MahmoudAliKhider&color=blue)
 
 
